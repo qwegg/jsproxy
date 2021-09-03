@@ -27,6 +27,12 @@ jsproxy_config({
         'node-aliyun-sg.etherdream.com:8443': 1,
       },
     },
+   'Seoul': {
+      label: '龟壳云-首尔',
+      lines: {
+        'm.bocc.online:8443': 1,
+      },
+    },
     'mysite': {
       label: '当前站点',
       lines: {
