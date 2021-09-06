@@ -30,7 +30,7 @@ jsproxy_config({
    'Seoul': {
       label: '龟壳云-首尔',
       lines: {
-        'm.bocc.online:8443': 1,
+        'c9.eud.eu.org:8443': 1,
       },
     },
     'mysite': {
