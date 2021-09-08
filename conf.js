@@ -37,7 +37,7 @@ jsproxy_config({
     'cfworker': {
       label: 'cfworker',
       //hidden: true,
-      lines: 
+      lines: {
         'example.searcher.workers.dev':,1,
         'vpn.hgnet.workers.dev':1
         'vpn.hgnet.workers.dev':1,
