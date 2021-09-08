@@ -35,7 +35,7 @@ jsproxy_config({
     },
     // 该节点用于加载大体积的静态资源
     'cf-worker': {
-      label: 'cfworker',
+      label: 'CF-Worker',
       //hidden: true,
       lines: {
         'example.searcher.workers.dev': 1,
