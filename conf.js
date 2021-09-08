@@ -39,7 +39,7 @@ jsproxy_config({
       //hidden: true,
       lines: {
         'example.searcher.workers.dev': 1,
-        'vpn.hgnet.workers.dev': 1
+        'vpn.hgnet.workers.dev': 1,
         'vpn.hgnet.workers.dev': 1,
       }
     }
@@ -54,7 +54,7 @@ jsproxy_config({
   /**
    * 加速节点
    */
-  node_acc: 'cfworker',
+  node_acc: 'CF-Worker',
 
   /**
    * 静态资源 CDN 地址
